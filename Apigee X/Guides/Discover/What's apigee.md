@@ -1,0 +1,35 @@
+- 👁️== in Apigee Edge -- '../Apigee Edge/What's Apigee?' -- 👁️
+- := Google Cloud (GC)’s native API management platform
+    - support for
+        - REST -- TODO: Add link --
+        - gRPC -- TODO: Add link --
+        - SOAP -- TODO: Add link --
+        - GraphQL -- TODO: Add link --
+
+- https://www.youtube.com/watch?v=vGe38icp0n4
+  - valid for
+      - older backed services
+      - microservices
+      - multi-cloud environments
+      - serverless
+      - ..
+  - API
+      - allows
+          - defining interactions between multiple software applications
+      - ‘s audience
+          - producers
+          - consumers
+      - pilars
+          - security
+          - compatibility
+          - measurements
+      - main features
+          - Developer portal
+          - monitoring & analytics
+          - runtime
+      - product
+          - == bundle the API Proxy
+          - on which you can
+              - register as an app developer
+              - create an API key
+              - make requests with API key
