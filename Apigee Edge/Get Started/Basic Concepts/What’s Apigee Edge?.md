@@ -16,6 +16,11 @@
 - use cases
   - service shared internally
   - partner or developer ecosystem
-  - 
+
+# Architecture with Apigee Edge
+* 'architecture.png'
+* how does it work?
+  * API consumers — access to — API proxy
+
 
 - TODO:
