@@ -5,3 +5,10 @@ Notes taken based on [Apigee](https://docs.apigee.com/) and [Google Cloud](https
 * Based on your product
   * 'Apigee Edge'
   * 'Apigee X'
+
+# Allows
+- develop & manage
+  - API Proxies-RESTful
+    - internal &
+    - external
+- HTTP-based APIs
