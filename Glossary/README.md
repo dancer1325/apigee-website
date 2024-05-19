@@ -39,3 +39,25 @@
     - extensible
         - := proxies / includes ≥ 1 Extensible policies or flow hook
             - → can include more functionality
+
+# API products
+- := central mechanism / — limit the accesss control to — APIs
+- == product line
+- allows
+  - ≥ 1 operations are bundled
+  - APIs are made available
+
+
+
+# Operation
+- == API proxy + resource paths  + access limits
+  - 👁️resource paths / accessed on API proxy👁️
+  - access limits by — HTTP methods OR quota
+- := [group of attributes](https://cloud.google.com/apigee/docs/api-platform/publish/what-api-product#operations) / — restrict access to — ≥ 1 API proxy — based on —
+  - resource path
+  - HTTP method
+  - quota
+
+# API keys
+- provisioned for API products (≠ API themselves)
+- TODO:
