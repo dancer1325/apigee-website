@@ -43,11 +43,12 @@
 # API products
 - := central mechanism / — limit the accesss control to — APIs
 - == product line
+  - == ≥ 1 API proxies grouped
+    - Reason: 🧠operation 🧠
 - allows
   - ≥ 1 operations are bundled
   - APIs are made available
-
-
+- API product1 ← can share an API proxy with → API product2
 
 # Operation
 - == API proxy + resource paths  + access limits
