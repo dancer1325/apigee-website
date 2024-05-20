@@ -1,0 +1,11 @@
+- Goal of developer portal
+    - learn about
+        - data &
+        - service offerings
+        - how to use your APIs
+          - _Example:_ documentation, example, tutorials, ..
+    - register apps
+
+- [Types](https://docs.apigee.com/api-platform/publish/developer-portal#solutions)
+  - [comparison](https://docs.apigee.com/api-platform/publish/developer-portal#feature-comparison)
+  - [which one to choose](https://docs.apigee.com/api-platform/publish/developer-portal#choose)
