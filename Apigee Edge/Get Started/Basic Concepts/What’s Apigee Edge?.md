@@ -1,6 +1,25 @@
 - := Platform
     - allows -- Check '../../README.md'
     - with API proxies -- Check '../../Glossary'
+- == API runtime + Monitoring & analytics + Developer ecosystem
+  - API runtime
+  - Monitoring & analytics
+    - information to be collected
+      - URL
+      - IP
+      - user ID
+      - latency
+      - error data
+      - …
+  - Developer ecosystem
+    - valid for any Apigee Edge stack
+      - Cloud Apigee Edge
+      - [Apigee Edge for Private Cloud] on-premises
+    - types
+      - integrated portal
+      - drupal-based portal
+
+---
 
 # service management vs API management
 * [Link](https://www.youtube.com/watch?v=1FV0Vv-me08)
@@ -16,6 +35,8 @@
 - use cases
   - service shared internally
   - partner or developer ecosystem
+
+---
 
 # Architecture with Apigee Edge
 * 'architecture.png'
