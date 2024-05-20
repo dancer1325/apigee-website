@@ -49,6 +49,12 @@
   - ≥ 1 operations are bundled
   - APIs are made available
 - API product1 ← can share an API proxy with → API product2
+- How does it work?
+  - create ≥ 1 API Proxy
+  - create API Product
+  - deploy API Proxy & API Product
+  - register client app + API product
+  - use the API key / included in the API product — to authenticate 
 
 # Operation
 - == API proxy + resource paths  + access limits
@@ -61,4 +67,8 @@
 
 # API keys
 - provisioned for API products (≠ API themselves)
+- characteristics
+  - it can be revoked at anytime
+  - time limit to refresh
+
 - TODO:
