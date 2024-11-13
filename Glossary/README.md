@@ -30,6 +30,9 @@
              - security settings
              - policies
                  - check response’s message format
+
+    ![API Proxy](apiProxy.png)
+
 - types of proxies
     - standard
         - := proxy / includes ONLY Standard policies
@@ -55,6 +58,8 @@
   - deploy API Proxy & API Product
   - register client app + API product
   - use the API key / included in the API product — to authenticate 
+
+    ![how does it work?](apiProductHowWorks.png)
 
 # Operation
 - == API proxy + resource paths  + access limits
